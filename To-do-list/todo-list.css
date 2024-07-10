@@ -1,0 +1,31 @@
+body{
+    background-color: #E6B9A6;
+    text-align: center;
+}
+.heading{
+    margin-top: 5%;
+    color:#EEEDEB;
+    font-weight: 700;
+}
+
+.inputBox{
+    background-color:#2F3645;
+    color:#EEEDEB;
+    font-weight: bolder;
+    border: none;
+    padding: 5px 2% 5px 2%;
+    font-size: larger;
+}
+.btn{
+    background-color: #2F3645;
+    color: #E6B9A6;
+   padding: 5px 1% 5px 1%;
+   margin-left: 1%;
+   font-weight: bolder;
+   border: none;
+   font-size: larger;
+}
+.btn:hover{
+    background-color: #EEEDEB;
+    border: none;
+}
